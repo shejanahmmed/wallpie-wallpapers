@@ -1,47 +1,86 @@
 [
   {
-    "name": "Space1",
-    "category": "Space",
-    "url": "https://raw.githubusercontent.com/shejanahmmed/wallpie-wallpapers/main/wallpapers/space/space1.png"
-  },
-  {
-    "name": "Minimal3",
-    "category": "Minimal",
-    "url": "https://raw.githubusercontent.com/shejanahmmed/wallpie-wallpapers/main/wallpapers/minimal/minimal3.jpg"
-  },
-  {
-    "name": "Minimal1",
-    "category": "Minimal",
-    "url": "https://raw.githubusercontent.com/shejanahmmed/wallpie-wallpapers/main/wallpapers/minimal/minimal1.jpg"
-  },
-  {
-    "name": "Minimal2",
-    "category": "Minimal",
-    "url": "https://raw.githubusercontent.com/shejanahmmed/wallpie-wallpapers/main/wallpapers/minimal/minimal2.jpg"
-  },
-  {
-    "name": "Minimal4",
-    "category": "Minimal",
-    "url": "https://raw.githubusercontent.com/shejanahmmed/wallpie-wallpapers/main/wallpapers/minimal/minimal4.png"
-  },
-  {
-    "name": "Nature1",
-    "category": "Nature",
-    "url": "https://raw.githubusercontent.com/shejanahmmed/wallpie-wallpapers/main/wallpapers/nature/nature1.jpg"
-  },
-  {
-    "name": "Nature2",
-    "category": "Nature",
-    "url": "https://raw.githubusercontent.com/shejanahmmed/wallpie-wallpapers/main/wallpapers/nature/nature2.png"
-  },
-  {
     "name": "Abstract1",
     "category": "Abstract",
-    "url": "https://raw.githubusercontent.com/shejanahmmed/wallpie-wallpapers/main/wallpapers/abstract/abstract1.jpg"
+    "url": "https://raw.githubusercontent.com/shejanahmmed/wallpie-wallpapers/main/wallpapers/abstract/abstract1.jpg",
+    "uploadDate": "2026-03-09"
   },
   {
     "name": "Abstract2",
     "category": "Abstract",
-    "url": "https://raw.githubusercontent.com/shejanahmmed/wallpie-wallpapers/main/wallpapers/abstract/abstract2.png"
+    "url": "https://raw.githubusercontent.com/shejanahmmed/wallpie-wallpapers/main/wallpapers/abstract/abstract2.png",
+    "uploadDate": "2026-03-09"
+  },
+  {
+    "name": "Minimal1",
+    "category": "Minimal",
+    "url": "https://raw.githubusercontent.com/shejanahmmed/wallpie-wallpapers/main/wallpapers/minimal/minimal1.jpg",
+    "uploadDate": "2026-03-07"
+  },
+  {
+    "name": "Minimal2",
+    "category": "Minimal",
+    "url": "https://raw.githubusercontent.com/shejanahmmed/wallpie-wallpapers/main/wallpapers/minimal/minimal2.jpg",
+    "uploadDate": "2026-03-07"
+  },
+  {
+    "name": "Minimal3",
+    "category": "Minimal",
+    "url": "https://raw.githubusercontent.com/shejanahmmed/wallpie-wallpapers/main/wallpapers/minimal/minimal3.jpg",
+    "uploadDate": "2026-03-07"
+  },
+  {
+    "name": "Minimal4",
+    "category": "Minimal",
+    "url": "https://raw.githubusercontent.com/shejanahmmed/wallpie-wallpapers/main/wallpapers/minimal/minimal4.png",
+    "uploadDate": "2026-03-09"
+  },
+  {
+    "name": "Nature1",
+    "category": "Nature",
+    "url": "https://raw.githubusercontent.com/shejanahmmed/wallpie-wallpapers/main/wallpapers/nature/nature1.jpg",
+    "uploadDate": "2026-03-08"
+  },
+  {
+    "name": "Nature2",
+    "category": "Nature",
+    "url": "https://raw.githubusercontent.com/shejanahmmed/wallpie-wallpapers/main/wallpapers/nature/nature2.png",
+    "uploadDate": "2026-03-09"
+  },
+  {
+    "name": "Nature3",
+    "category": "Nature",
+    "url": "https://raw.githubusercontent.com/shejanahmmed/wallpie-wallpapers/main/wallpapers/nature/nature3.jpg",
+    "uploadDate": "2026-03-11"
+  },
+  {
+    "name": "Nature4",
+    "category": "Nature",
+    "url": "https://raw.githubusercontent.com/shejanahmmed/wallpie-wallpapers/main/wallpapers/nature/nature4.jpg",
+    "uploadDate": "2026-03-11"
+  },
+  {
+    "name": "Space1",
+    "category": "Space",
+    "url": "https://raw.githubusercontent.com/shejanahmmed/wallpie-wallpapers/main/wallpapers/space/space1.png",
+    "uploadDate": "2026-03-09"
+  },
+  {
+    "name": "Urban1",
+    "category": "Urban",
+    "url": "https://raw.githubusercontent.com/shejanahmmed/wallpie-wallpapers/main/wallpapers/urban/urban1.jpg",
+    "uploadDate": "2026-03-11"
+  },
+  {
+    "name": "Urban2",
+    "category": "Urban",
+    "url": "https://raw.githubusercontent.com/shejanahmmed/wallpie-wallpapers/main/wallpapers/urban/urban2.jpg",
+    "uploadDate": "2026-03-11"
+  },
+  {
+    "name": "Urban3",
+    "category": "Urban",
+    "url": "https://raw.githubusercontent.com/shejanahmmed/wallpie-wallpapers/main/wallpapers/urban/urban3.jpg",
+    "uploadDate": "2026-03-11"
   }
 ]

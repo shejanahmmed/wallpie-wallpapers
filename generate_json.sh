@@ -37,11 +37,18 @@ while read -r file; do
     URL_PATH="${file#./}"
     URL="https://raw.githubusercontent.com/$USERNAME/$REPO/$BRANCH/$URL_PATH"
     
+    # Get Upload Date from Git
+    UPLOAD_DATE=$(git log -1 --format=%as -- "$file")
+    if [ -z "$UPLOAD_DATE" ]; then
+        UPLOAD_DATE=$(date +%Y-%m-%d)
+    fi
+
     # Add to JSON
     echo "  {" >> "$OUTPUT"
     echo "    \"name\": \"$NAME\"," >> "$OUTPUT"
     echo "    \"category\": \"$CATEGORY\"," >> "$OUTPUT"
-    echo "    \"url\": \"$URL\"" >> "$OUTPUT"
+    echo "    \"url\": \"$URL\"," >> "$OUTPUT"
+    echo "    \"uploadDate\": \"$UPLOAD_DATE\"" >> "$OUTPUT"
     
     COUNT=$((COUNT + 1))
     
