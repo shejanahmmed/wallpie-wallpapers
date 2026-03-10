@@ -1,5 +1,10 @@
 [
   {
+    "name": "Space1",
+    "category": "Space",
+    "url": "https://raw.githubusercontent.com/shejanahmmed/wallpie-wallpapers/main/wallpapers/space/space1.png"
+  },
+  {
     "name": "Minimal3",
     "category": "Minimal",
     "url": "https://raw.githubusercontent.com/shejanahmmed/wallpie-wallpapers/main/wallpapers/minimal/minimal3.jpg"
@@ -15,8 +20,28 @@
     "url": "https://raw.githubusercontent.com/shejanahmmed/wallpie-wallpapers/main/wallpapers/minimal/minimal2.jpg"
   },
   {
+    "name": "Minimal4",
+    "category": "Minimal",
+    "url": "https://raw.githubusercontent.com/shejanahmmed/wallpie-wallpapers/main/wallpapers/minimal/minimal4.png"
+  },
+  {
     "name": "Nature1",
     "category": "Nature",
     "url": "https://raw.githubusercontent.com/shejanahmmed/wallpie-wallpapers/main/wallpapers/nature/nature1.jpg"
+  },
+  {
+    "name": "Nature2",
+    "category": "Nature",
+    "url": "https://raw.githubusercontent.com/shejanahmmed/wallpie-wallpapers/main/wallpapers/nature/nature2.png"
+  },
+  {
+    "name": "Abstract1",
+    "category": "Abstract",
+    "url": "https://raw.githubusercontent.com/shejanahmmed/wallpie-wallpapers/main/wallpapers/abstract/abstract1.jpg"
+  },
+  {
+    "name": "Abstract2",
+    "category": "Abstract",
+    "url": "https://raw.githubusercontent.com/shejanahmmed/wallpie-wallpapers/main/wallpapers/abstract/abstract2.png"
   }
 ]
