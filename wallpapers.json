@@ -25,14 +25,39 @@
     "url": "https://raw.githubusercontent.com/shejanahmmed/wallpie-wallpapers/main/wallpapers/minimal/minimal4.png"
   },
   {
+    "name": "Urban3",
+    "category": "Urban",
+    "url": "https://raw.githubusercontent.com/shejanahmmed/wallpie-wallpapers/main/wallpapers/urban/urban3.jpg"
+  },
+  {
+    "name": "Urban1",
+    "category": "Urban",
+    "url": "https://raw.githubusercontent.com/shejanahmmed/wallpie-wallpapers/main/wallpapers/urban/urban1.jpg"
+  },
+  {
+    "name": "Urban2",
+    "category": "Urban",
+    "url": "https://raw.githubusercontent.com/shejanahmmed/wallpie-wallpapers/main/wallpapers/urban/urban2.jpg"
+  },
+  {
     "name": "Nature1",
     "category": "Nature",
     "url": "https://raw.githubusercontent.com/shejanahmmed/wallpie-wallpapers/main/wallpapers/nature/nature1.jpg"
   },
   {
+    "name": "Nature3",
+    "category": "Nature",
+    "url": "https://raw.githubusercontent.com/shejanahmmed/wallpie-wallpapers/main/wallpapers/nature/nature3.jpg"
+  },
+  {
     "name": "Nature2",
     "category": "Nature",
     "url": "https://raw.githubusercontent.com/shejanahmmed/wallpie-wallpapers/main/wallpapers/nature/nature2.png"
+  },
+  {
+    "name": "Nature4",
+    "category": "Nature",
+    "url": "https://raw.githubusercontent.com/shejanahmmed/wallpie-wallpapers/main/wallpapers/nature/nature4.jpg"
   },
   {
     "name": "Abstract1",
